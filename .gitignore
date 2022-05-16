@@ -10,3 +10,7 @@ rename copy.py
 rename.py
 
 modifyClassNum.py
+
+/spider
+imgAug.py
+classes.txt

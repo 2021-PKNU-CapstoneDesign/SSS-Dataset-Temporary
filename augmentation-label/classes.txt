@@ -1,3 +1,0 @@
-with helmet
-without helmet
-scooter
